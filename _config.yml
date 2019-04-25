@@ -1,1 +1,16 @@
-theme: minima
+title: Content
+baseurl: ''
+imageurl: 'https://hrmi-dataportal-content.unfolddata.com/assets/uploads'
+siteurl: 'https://hrmi-dataportal-content.unfolddata.com'
+permalink: /:categories/:title
+markdown: kramdown
+languages: &languages
+  - name: 'English'
+    value: 'en'
+  - name: 'French'
+    value: 'fr'
+prose:
+  media: "assets/uploads"
+  rooturl: '_posts'
+  siteurl: 'https://hrmi-dataportal-content.github.io/unfolddata/'
+  relativeLinks: 'https://hrmi-dataportal-content.github.io/unfolddata/resources/links.jsonp'

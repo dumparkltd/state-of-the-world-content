@@ -1,7 +1,7 @@
 title: Content
 baseurl: ''
-imageurl: 'https://hrmi-dataportal-content.unfolddata.com/assets/uploads'
-siteurl: 'https://hrmi-dataportal-content.unfolddata.com'
+imageurl: 'http://hrmi-dataportal-content.unfolddata.com/assets/uploads'
+siteurl: 'http://hrmi-dataportal-content.unfolddata.com'
 permalink: /:categories/:title
 markdown: kramdown
 languages: &languages
@@ -12,5 +12,5 @@ languages: &languages
 prose:
   media: "assets/uploads"
   rooturl: '_posts'
-  siteurl: 'https://hrmi-dataportal-content.github.io/unfolddata/'
-  relativeLinks: 'https://hrmi-dataportal-content.github.io/unfolddata/resources/links.jsonp'
+  siteurl: 'http://unfolddata.github.io/hrmi-dataportal-content/'
+  relativeLinks: 'http://unfolddata.github.io/hrmi-dataportal-content/resources/links.jsonp'

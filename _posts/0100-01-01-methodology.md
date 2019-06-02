@@ -14,9 +14,9 @@ For civil and political rights, where violations often take place in secret and 
 
 Learn more:
 
-[Get an overview of our methodology for measuring economic and social rights](https://humanrightsmeasurement.org//methodology/measuring-economic-social-rights/).
+[Get an overview of our methodology for measuring economic and social rights](https://humanrightsmeasurement.org//methodology/measuring-economic-social-rights/)
 
-[Get an overview of our methodology for measuring civil and political rights](https://humanrightsmeasurement.org//methodology/measuring-civil-political-rights/).
+[Get an overview of our methodology for measuring civil and political rights](https://humanrightsmeasurement.org//methodology/measuring-civil-political-rights/)
 
 [Read our more in-depth methodology handbook](https://humanrightsmeasurement.org/wp-content/uploads/2018/03/HRMI-Methodology-Note-2018.pdf)
 

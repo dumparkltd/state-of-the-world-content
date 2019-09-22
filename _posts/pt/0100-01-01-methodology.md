@@ -19,4 +19,4 @@ Saiba mais:
 
 [Leia nosso manual de metodologia mais aprofundado](https://humanrightsmeasurement.org/methodology-handbook/)
 
-[Veja a pesquisa de especialistas da HRMI para direitos civis e políticos (Atenção: esta versão da pesquisa não está ativa e qualquer resposta inserida não será registrada)](https://ugeorgia.qualtrics.com/jfe/preview/SV_d71YagJrGqcMq4R?Q_CHL=preview)
+[Veja a pesquisa de especialistas da HRMI para direitos civis e políticos](https://ugeorgia.qualtrics.com/jfe/preview/SV_d71YagJrGqcMq4R?Q_CHL=preview) (Atenção: esta versão da pesquisa não está ativa e qualquer resposta inserida não será registrada)

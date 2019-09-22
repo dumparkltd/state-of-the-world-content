@@ -20,4 +20,4 @@ Lee más:
 
 [Lee nuestro manual sobre metodología exhaustiva (en inglés)](https://humanrightsmeasurement.org/methodology-handbook/)
 
-[Mira la encuesta a los expertos de HRMI para derechos civiles y políticos (Favor notar: esta versión de la encuesta no está activa, y cualquier respuesta que usted brinde no será guardada)](https://ugeorgia.qualtrics.com/jfe/preview/SV_d71YagJrGqcMq4R?Q_CHL=preview)
+[Mira la encuesta a los expertos de HRMI para derechos civiles y políticos ](https://ugeorgia.qualtrics.com/jfe/preview/SV_d71YagJrGqcMq4R?Q_CHL=preview) (Favor notar: esta versión de la encuesta no está activa, y cualquier respuesta que usted brinde no será guardada)

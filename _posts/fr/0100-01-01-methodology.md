@@ -6,16 +6,14 @@ lang: fr
 title: Methodology
 ---
 
-FR:
+Il n’existe pas de méthologie universelle pour mesurer la performance en termes de droits humains ; nous utilisons donc des méthodologies différentes et adaptées à chaque domaine.
 
-There is no one-size-fits-all methodology for measuring human rights performance, so we use different methodologies that are best tailored to each area.
+A chaque fois que c’est possible – par exemple, dans le domaine des droits économiques et sociaux – nos méthodologies font appel à des statistiques objectives produites par les gouvernements nationaux et les agences internationales.
 
-Wherever possible – e.g. in the area of economic and social rights – our methodologies use objective statistics produced by national governments and international agencies.
+Les violations des droits civils et politiques sont souvent dissimulées et les témoignages concernant ces violations sont très fragmentaires. Pour ces droits, nous recourons à une approche par enquête d’experts afin d’obtenir nos informations directement des experts en droits de l’homme qui effectuent une veille sur les événements dans chaque pays.
 
-For civil and political rights, where violations often take place in secret and reporting is very patchy, we use an expert survey approach to get our information directly from the human rights experts who are monitoring events in each country.
-
-Learn more:
-* [Get an overview of our methodology for measuring economic and social rights](https://humanrightsmeasurement.org//methodology/measuring-economic-social-rights/).
-* [Get an overview of our methodology for measuring civil and political rights](https://humanrightsmeasurement.org//methodology/measuring-civil-political-rights/).
-* [Read our more in-depth methodology handbook](https://humanrightsmeasurement.org/wp-content/uploads/2018/03/HRMI-Methodology-Note-2018.pdf).
-* [See the HRMI expert survey for civil and political rights (please note this is a link to a preview of the survey only, and any responses you make will not be collected)](https://ugeorgia.qualtrics.com/jfe/preview/SV_d71YagJrGqcMq4R?Q_CHL=preview).
+Pour en savoir plus:
+* [Aperçu de notre méthodologie pour la mesure des droits économiques et sociaux](https://humanrightsmeasurement.org//methodology/measuring-economic-social-rights/).
+* [Aperçu de notre méthodologie pour la mesure des droits civils et politiques](https://humanrightsmeasurement.org//methodology/measuring-civil-political-rights/).
+* [Guide de méthodologie détaillée (en anglais seulement)](https://humanrightsmeasurement.org/methodology-handbook/).
+* [Enquête experte d’HRMI pour les droits civils et politiques (Veuillez noter qu'il s'agit uniquement d'un lien vers un aperçu de l'enquête et que les réponses que vous y ferez ne seront pas collectées)](https://ugeorgia.qualtrics.com/jfe/preview/SV_d71YagJrGqcMq4R?Q_CHL=preview).

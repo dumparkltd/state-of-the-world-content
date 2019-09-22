@@ -18,6 +18,6 @@ Learn more:
 
 [Get an overview of our methodology for measuring civil and political rights](https://humanrightsmeasurement.org//methodology/measuring-civil-political-rights/)
 
-[Read our more in-depth methodology handbook](https://humanrightsmeasurement.org/wp-content/uploads/2018/03/HRMI-Methodology-Note-2018.pdf)
+[Read our more in-depth methodology handbook](https://humanrightsmeasurement.org/methodology-handbook/)
 
 [See the HRMI expert survey for civil and political rights](https://ugeorgia.qualtrics.com/jfe/preview/SV_d71YagJrGqcMq4R?Q_CHL=preview) (please note this is a link to a preview of the survey only, and any responses you make will not be collected)

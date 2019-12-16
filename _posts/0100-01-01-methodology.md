@@ -12,6 +12,8 @@ Wherever possible – e.g. in the area of economic and social rights – our met
 
 For civil and political rights, where violations often take place in secret and reporting is very patchy, we use an expert survey approach to get our information directly from the human rights experts who are monitoring events in each country.
 
+For economic and social rights, we draw on national statistics and use the award-winning SERF Index methodology to compare countries’ human rights progress with their income.
+
 Learn more:
 
 [Get an overview of our methodology for measuring economic and social rights](https://humanrightsmeasurement.org//methodology/measuring-economic-social-rights/)
@@ -21,3 +23,4 @@ Learn more:
 [Read our more in-depth methodology handbook](https://humanrightsmeasurement.org/methodology-handbook/)
 
 [See the HRMI expert survey for civil and political rights](https://ugeorgia.qualtrics.com/jfe/preview/SV_d71YagJrGqcMq4R?Q_CHL=preview) (please note this is a link to a preview of the survey only, and any responses you make will not be collected)
+[Visit the SERF Index website] (https://serfindex.uconn.edu/)

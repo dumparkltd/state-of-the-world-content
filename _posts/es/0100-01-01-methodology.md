@@ -12,7 +12,7 @@ Cada vez que sea posible, por ejemplo, en el rubro de derechos económicos y soc
 
 Para derechos civiles y políticos, donde las violaciones a menudo ocurren en secreto y los informes son incompletos, usamos un enfoque de encuesta a los expertos para obtener nuestra información directamente de los expertos en derechos humanos que analizan los acontecimientos en cada país.
 
-Para los derechos económicos y sociales, recurrimos a las estadísticas nacionales y utilizamos la galardonada metodología del Índice SERF para comparar el progreso de los derechos humanos de los países con sus ingresos.
+Para los derechos económicos y sociales, recurrimos a las estadísticas nacionales y utilizamos la galardonada metodología del [Índice SERF](https://serfindex.uconn.edu/) para comparar el progreso de los derechos humanos de los países con sus ingresos.
 
 Lee más:
 

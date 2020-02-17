@@ -1,7 +1,7 @@
 title: Content
 baseurl: ''
-imageurl: 'http://hrmi-dataportal-content.unfolddata.com/assets/uploads'
-siteurl: 'http://hrmi-dataportal-content.unfolddata.com'
+imageurl: 'https://content-store.humanrightsmeasurement.org/assets/uploads'
+siteurl: 'https://content-store.humanrightsmeasurement.org/'
 permalink: /:categories/:title
 markdown: kramdown
 languages: &languages
@@ -16,8 +16,8 @@ languages: &languages
 prose:
   media: "assets/uploads"
   rooturl: '_posts'
-  siteurl: 'http://unfolddata.github.io/hrmi-dataportal-content/'
-  relativeLinks: 'http://unfolddata.github.io/hrmi-dataportal-content/resources/links.jsonp'
+  siteurl: 'https://content-store.humanrightsmeasurement.org/'
+  relativeLinks: 'https://content-store.humanrightsmeasurement.org/resources/links.jsonp'
   _posts:
     - name: "layout"
       field:

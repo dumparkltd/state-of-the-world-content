@@ -3,7 +3,7 @@ layout: default
 published: true
 permalink: /pt/at-risk/
 lang: pt
-title: "PT: At risk overview"
+title: 'PT: At risk overview'
 ---
 
 Are you interested in a particular group of people and how their human rights are affected in a country?
@@ -18,3 +18,6 @@ Until that feature is ready to launch, here's how you can find 'people at risk' 
 4. The 'find' results box will tell you how many of the 14 word clouds your search term appears in.
 5. Scroll down the collection of word clouds, spotting the highlighted words you have searched for.
 6. If you hover on any of the people at risk groups in the word clouds, you will see the percentage of our expert survey respondents who said that these people were at particular risk of violations of this human right.
+
+Test image
+![Sarah_install.png]({{site.baseurl}}/assets/uploads/Sarah_install.png)

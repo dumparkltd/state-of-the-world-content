@@ -1,5 +1,5 @@
 title: Content
-baseurl: ''
+baseurl: 'https://content-store.humanrightsmeasurement.org'
 imageurl: 'https://content-store.humanrightsmeasurement.org/assets/uploads'
 siteurl: 'https://content-store.humanrightsmeasurement.org/'
 permalink: /:categories/:title

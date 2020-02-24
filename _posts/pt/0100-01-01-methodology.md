@@ -16,9 +16,9 @@ Para direitos econômicos e sociais, recorremos às estatísticas nacionais e us
 
 Saiba mais:
 
-[Obtenha uma visão geral de nossa metodologia de medição dos direitos econômicos e sociais](https://humanrightsmeasurement.org//methodology/measuring-economic-social-rights/)
+[Obtenha uma visão geral de nossa metodologia de medição dos direitos econômicos e sociais](https://humanrightsmeasurement.org/pt-pt/metodologia/medicao-de-direitos-economicos-e-sociais/)
 
-[Obtenha uma visão geral de nossa metodologia para medir os direitos civis e políticos](https://humanrightsmeasurement.org//methodology/measuring-civil-political-rights/)
+[Obtenha uma visão geral de nossa metodologia para medir os direitos civis e políticos](https://humanrightsmeasurement.org/pt-pt/metodologia/medindo-direitos-civis-e-politicos/)
 
 [Leia nosso manual de metodologia mais aprofundado](https://humanrightsmeasurement.org/methodology-handbook/)
 

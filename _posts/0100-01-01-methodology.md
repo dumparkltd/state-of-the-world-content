@@ -6,13 +6,11 @@ lang: en
 title: Methodology
 ---
 
-There is no one-size-fits-all methodology for measuring human rights performance, so we use different methodologies that are best tailored to each area.
+There is no one-size-fits-all methodology for measuring human rights performance, so we use different methodologies, tailored to measure each set of rights.
 
-Wherever possible – e.g. in the area of economic and social rights – our methodologies use objective statistics produced by national governments and international agencies.
+For civil and political rights, where violations often take place in secret and reporting is inconsistent across different countries, we use an expert survey approach to get our information directly from the human rights experts who are monitoring events in each country.
 
-For civil and political rights, where violations often take place in secret and reporting is very patchy, we use an expert survey approach to get our information directly from the human rights experts who are monitoring events in each country.
-
-For economic and social rights, we draw on national statistics and use the award-winning SERF Index methodology to compare countries’ human rights progress with their income.
+For economic and social rights, we draw on national statistics produced by governments and international agencies, and use the award-winning SERF Index methodology to compare countries’ human rights oucomes with their income, to capture the concept of 'progressive realisation'.
 
 Learn more:
 
@@ -22,6 +20,6 @@ Learn more:
 
 [Read our more in-depth methodology handbook](https://humanrightsmeasurement.org/methodology-handbook/)
 
-[See the HRMI expert survey for civil and political rights](https://ugeorgia.qualtrics.com/jfe/preview/SV_d71YagJrGqcMq4R?Q_CHL=preview) (please note this is a link to a preview of the survey only, and any responses you make will not be collected)
+[See the HRMI expert survey for civil and political rights](https://ugeorgia.ca1.qualtrics.com/jfe/preview/SV_72IQjpYjeCbIw3b?Q_SurveyVersionID=current&Q_CHL=preview) (please note this is a link to a preview of the most recent version of the survey, and any responses you enter will not be collected)
 
 [Visit the SERF Index website](https://serfindex.uconn.edu/)

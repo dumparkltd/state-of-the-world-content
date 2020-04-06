@@ -16,9 +16,9 @@ Pour les droits économiques et sociaux, nous nous appuyons sur les statistiques
 
 Pour en savoir plus:
 
-[Aperçu de notre méthodologie pour la mesure des droits économiques et sociaux](https://humanrightsmeasurement.org//methodology/measuring-economic-social-rights/)
+[Aperçu de notre méthodologie pour la mesure des droits économiques et sociaux](https://humanrightsmeasurement.org/fr/methodologie/mesurer-les-droits-economiques-et-sociaux/)
 
-[Aperçu de notre méthodologie pour la mesure des droits civils et politiques](https://humanrightsmeasurement.org//methodology/measuring-civil-political-rights/)
+[Aperçu de notre méthodologie pour la mesure des droits civils et politiques](https://humanrightsmeasurement.org/fr/methodologie/mesurer-les-droits-civiques-et-politiques/)
 
 [Guide de méthodologie détaillée (en anglais seulement)](https://humanrightsmeasurement.org/methodology-handbook/)
 

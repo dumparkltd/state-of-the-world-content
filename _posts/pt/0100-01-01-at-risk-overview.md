@@ -5,7 +5,6 @@ permalink: /pt/at-risk/
 lang: pt
 title: 'PT: At risk overview'
 ---
-
 Are you interested in a particular group of people and how their human rights are affected in a country?
 
 We are working on a feature where you can search by 'people at risk', such as women/girls; disabled people; indigenous people.

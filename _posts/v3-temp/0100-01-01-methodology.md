@@ -34,7 +34,7 @@ Learn more:
 [Visit the SERF Index website](https://serfindex.uconn.edu/)
 
 
-**## Understanding how to interpret the good, fair, bad and very bad labels on the country charts**
+**Understanding how to interpret the good, fair, bad and very bad labels on the country charts**
 
 What do the good, fair, bad, and very bad ranges mean, exactly?
 

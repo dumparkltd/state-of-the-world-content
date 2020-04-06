@@ -10,7 +10,7 @@ There is no one-size-fits-all methodology for measuring human rights performance
 
 ## Measuring civil and political rights
 
-For civil and political rights, where violations often take place in secret and reporting is inconsistent across different countries, we use an expert survey approach to get our information directly from the human rights experts who are monitoring events in each country.
+For civil and political rights, where violations often take place in secret and reporting is inconsistent across different countries, we use a multilingual expert survey approach to get our information directly from the human rights experts who are monitoring events in each country.
 
 Learn more:
 
@@ -41,13 +41,13 @@ The labels on the country charts of **good**, **fair**, **bad**, and **very bad*
 
 **Interpreting these labels for the civil and political rights (Safety from the State and Empowerment)**
 
-**Good**: Governments with scores in the **good** range respect these rights more than most other governments in our sample since 2017. However, countries in this range, particularly those with scores close to the lower end of the range, may still have significant problems that lead to the violation of some peoples’ rights.
+**Good** (8-10): Governments with scores in the **good** range respect these rights more than most other governments in our sample since 2017. However, countries in this range, particularly those with scores close to the lower end of the range, may still have significant problems that lead to the violation of some peoples’ rights.
 
-**Fair**: Governments with scores in the **fair** range respect these rights more than many countries since 2017, but still violate the rights of a significant number of people.
+**Fair** (6-8): Governments with scores in the **fair** range respect these rights more than many countries since 2017, but still violate the rights of a significant number of people.
 
-**Bad**: Governments with scores in the **bad** range engage in numerous violations of civil and political rights, performing worse than many governments in our sample since 2017.
+**Bad** (3.5-6): Governments with scores in the **bad** range engage in numerous violations of civil and political rights, performing worse than many governments in our sample since 2017.
 
-**Very bad**: Governments with scores in the **very bad** range violate these rights more than most other governments in our sample since 2017.
+**Very bad** (0-3.5): Governments with scores in the **very bad** range violate these rights more than most other governments in our sample since 2017.
 
 **Interpreting these labels for the economic and social rights (Quality of Life)**
 

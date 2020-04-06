@@ -1,7 +1,7 @@
 ---
 layout: default
 published: true
-permalink: /es/at-risk/
+permalink: /v3/es/at-risk/
 lang: es
 title: 'ES: At risk overview'
 ---

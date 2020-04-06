@@ -21,7 +21,7 @@ Learn more:
 [See the HRMI expert survey for civil and political rights](https://ugeorgia.ca1.qualtrics.com/jfe/preview/SV_72IQjpYjeCbIw3b?Q_SurveyVersionID=current&Q_CHL=preview) (please note this is a link to a preview of the most recent version of the survey, and any responses you enter will not be collected)
 
 
-### Measuring economic and social rights
+## Measuring economic and social rights
 
 For economic and social rights, we draw on national statistics produced by governments and international agencies, and use the award-winning SERF Index methodology to compare countries’ human rights oucomes with their income, to capture the concept of 'progressive realisation'.
 
@@ -33,8 +33,7 @@ Learn more:
 
 [Visit the SERF Index website](https://serfindex.uconn.edu/)
 
-
-**Understanding how to interpret the good, fair, bad and very bad labels on the country charts**
+## Understanding how to interpret the good, fair, bad and very bad labels on the country charts
 
 What do the good, fair, bad, and very bad ranges mean, exactly?
 

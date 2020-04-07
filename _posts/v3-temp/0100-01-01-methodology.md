@@ -20,6 +20,7 @@ Learn more:
 
 [See the HRMI expert survey for civil and political rights](https://ugeorgia.ca1.qualtrics.com/jfe/preview/SV_72IQjpYjeCbIw3b?Q_SurveyVersionID=current&Q_CHL=preview) (please note this is a link to a preview of the most recent version of the survey, and any responses you enter will not be collected)
 
+---
 
 ## Measuring economic and social rights
 
@@ -32,6 +33,8 @@ Learn more:
 [Read our more in-depth methodology handbook](https://humanrightsmeasurement.org/methodology-handbook/)
 
 [Visit the SERF Index website](https://serfindex.uconn.edu/)
+
+---
 
 ## Understanding how to interpret the good, fair, bad, and very bad labels on the country charts
 
@@ -49,25 +52,27 @@ The labels on the country charts of **good**, **fair**, **bad**, and **very bad*
 
 **Very bad** (0-3.5): Governments with scores in the **very bad** range violate these rights more than most other governments in our sample since 2017.
 
+---
+
 **Interpreting these labels for the economic and social rights (Quality of Life)**
 
 **Income adjusted scores**
 
 HRMI's income adjusted Quality of Life scores can be broadly interpreted as showing the percentage of the country's obligation it has met, compared to what the best performing countries have achieved at each income level.  
 
-**Good** (95-100%): Countries scoring 100% set the benchmark for the country per capita income level concerned. That is, they show what it is possible to achieve at their resource level given current technologies and knowledge. These countries are meeting their immediate obligation in international law to use the maximum of their available resources to progressively fulfil the right concerned. Countries scoring more than 95 but less than 100, are doing a good job of ensuring the resources they have enable as many people as possible to enjoy the right concerned, but there is always room for improvement.
+**Good** (95-100%): Countries scoring 100% set the benchmark for the country per capita income level concerned. That is, they show what is possible to achieve at their resource level given current technologies and knowledge. These countries are meeting their immediate obligation under international law to use the maximum of their available resources to progressively fulfil the right concerned. Countries scoring more than 95 but less than 100, are doing a good job of ensuring the resources they have enable as many people as possible to enjoy the right concerned, but there is always room for improvement.
 
-**Fair** (85-94.9%): Countries scoring in this range are not doing nearly as much as they could to meet their obligations under the human rights law. They are only doing a **fair** (okay, but not good enough) job of putting in place the structures and policies that enable people to enjoy the right concerned.  
+**Fair** (85-94.9%): Countries scoring in this range are not doing nearly as much as they could to meet their obligations under international human rights law. They are only doing a **fair** (okay, but not good enough) job of putting in place the structures and policies that enable people to enjoy the right concerned.  
 
 **Bad** (75-84.9%):  Countries scoring in this range have a long way to go to meet their obligations under human rights law. They have failed to put in place the kinds of structures and policies that enable people to claim the right concerned. 
 
-**Very bad** (below 75%): There is no reason for any country to score this low. Not only are they failing to put in place the kinds of structures and policies that help people claim the right concerned, but the structures and policies in place most likely prevent people from claiming their rights.  
+**Very bad** (below 75%): There is no reason for any country to score this low. Not only are countries scoring below 75% failing to put in place the kinds of structures and policies that help people claim the right concerned, but the structures and policies in place most likely prevent many people from claiming their rights.  
 
 **Global best scores**
 
 The global best scores assess country performance compared to the ultimate goal of ensuring _all_ people can enjoy their economic and social rights. Countries performing well against the income adjusted performance benchmark might still perform poorly against the global best benchmark if they face resource constraints.
 
-**Good** (95-100%): Countries scoring 100% set the benchmark for what is possible at any income level. These are usually high income countries who are demonstrating what it is possible to achieve given their income, and current technologies and knowledge. These countries will not be perfect, but are showing what it is so far possible to achieve. Countries scoring more than 95 but less than 100 have enabled people to broadly claim the right concerned, but, as in every country, there will still be some vulnerable population subgroups that are unable to claim their rights.
+**Good** (95-100%): Countries scoring 100% set the benchmark for what is possible at any income level. These are usually high income countries who are demonstrating what is possible to achieve with sufficient income and given current technologies and knowledge. These countries will not be perfect, but are showing what it is so far possible to achieve. Countries scoring more than 95 but less than 100 have enabled people to broadly claim the right concerned, but, as in every country, there will still be some vulnerable population subgroups that are unable to claim their rights.
 
 **Fair** (85-94.9%): Countries scoring in this range likely enable the majority of people to claim the right concerned but there remain segments of the population that are unable to do so. 
 

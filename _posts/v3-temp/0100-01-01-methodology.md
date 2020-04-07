@@ -42,6 +42,8 @@ What do the **good**, **fair**, **bad**, and **very bad** ranges mean, exactly?
 
 The labels on the country charts of **good**, **fair**, **bad**, and **very bad** are used to give a general indication of how to understand the scores. They are NOT comprehensive descriptions of a country’s performance on an individual right.  
 
+---
+
 **Interpreting these labels for the civil and political rights (Safety from the State and Empowerment)**
 
 **Good** (8-10): Governments with scores in the **good** range respect these rights more than most other governments in our sample since 2017. However, countries in this range, particularly those with scores close to the lower end of the range, may still have significant problems that lead to the violation of some peoples’ rights.

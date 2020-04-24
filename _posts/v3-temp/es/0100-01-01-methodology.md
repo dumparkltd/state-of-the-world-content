@@ -36,7 +36,7 @@ Saber más:
 
 ---
 
-## Cómo interpretar las etiquetas bueno, regular, malo, y muy malo en los gráficos de los países
+## Cómo interpretar las etiquetas bueno, regular, malo, y muy malo en los gráficos de los países?
 
 ¿Qué significan exactamente los rangos **bueno**, **regular**, **malo**, y **muy malo**?
 
@@ -56,30 +56,30 @@ Las etiquetas **bueno**, **regular**, **malo**, y **muy malo** en los gráficos 
 
 ---
 
-**Interpreting these labels for the economic and social rights (Quality of Life)**
+**Más información sobre cómo interpretar estas etiquetas para derechos económicos y sociales (Calidad de Vida)**
 
-**Income adjusted scores**
+**Puntajes ajustados por ingresos**
 
-HRMI's income adjusted Quality of Life scores can be broadly interpreted as showing the percentage of the country's obligation it has met, compared to what the best performing countries have achieved at each income level.  
+Los puntajes de Calidad de Vida ajustados por ingresos de HRMI pueden interpretarse, en términos generales, como la muestra del porcentaje de obligación que el país ha alcanzado, en comparación con lo que han logrado los países que mejor han actuado en cada nivel de ingresos.  
 
-**Good** (95-100%): Countries scoring 100% set the benchmark for the country per capita income level concerned. That is, they show what is possible to achieve at their resource level given current technologies and knowledge. These countries are meeting their immediate obligation under international law to use the maximum of their available resources to progressively fulfil the right concerned. Countries scoring more than 95 but less than 100, are doing a good job of ensuring the resources they have enable as many people as possible to enjoy the right concerned, but there is always room for improvement.
+**Bueno** (95-100 %): los países con una puntaje del 100 % establecen el punto de referencia para el nivel de ingresos per cápita del país en cuestión. Es decir, muestran lo que es posible lograr a nivel de sus recursos dadas las tecnologías y los conocimientos actuales. Estos países cumplen su obligación inmediata en derecho internacional, al utilizar el máximo de sus recursos disponibles para cumplir progresivamente el derecho en cuestión. Los países con más de 95 pero menos de 100 están haciendo un buen trabajo al garantizar que los recursos que tienen permiten que la mayor parte de la gente pueda disfrutar del derecho en cuestión, pero siempre hay margen para mejorar. 
 
-**Fair** (85-94.9%): Countries scoring in this range are not doing nearly as much as they could to meet their obligations under international human rights law. They are only doing a **fair** (okay, but not good enough) job of putting in place the structures and policies that enable people to enjoy the right concerned.  
+**Regular** (85-94,9 %): los países con puntajes en este rango no están haciendo todo lo posible para cumplir con sus obligaciones dentro de la ley de derechos humanos. Solo están haciendo un trabajo regular (bueno, pero no lo suficientemente bueno) para establecer las estructuras y políticas que permitan a la gente disfrutar del derecho en cuestión.
 
-**Bad** (75-84.9%):  Countries scoring in this range have a long way to go to meet their obligations under human rights law. They have failed to put in place the kinds of structures and policies that enable people to claim the right concerned. 
+**Malo** (75-84,9 %): los países con puntajes en este rango tienen mucho trabajo que hacer para cumplir con sus obligaciones dentro de la ley de derechos humanos. No han logrado establecer los tipos de estructuras y políticas que permitan a las personas reclamar el derecho en cuestión. 
 
-**Very bad** (below 75%): There is no reason for any country to score this low. Not only are countries scoring below 75% failing to put in place the kinds of structures and policies that help people claim the right concerned, but the structures and policies in place most likely prevent many people from claiming their rights.  
+**Muy malo** (por debajo del 75 %): no hay ninguna razón para que un país obtenga un puntaje tan bajo. No solo no están implementando los tipos de estructuras y políticas que ayuden a las personas a reclamar el derecho en cuestión, sino que las estructuras y políticas vigentes probablemente eviten que las personas reclamen sus derechos. 
 
-**Global best scores**
+**Mejores puntajes globales**
 
-The global best scores assess country performance compared to the ultimate goal of ensuring _all_ people can enjoy their economic and social rights. Countries performing well against the income adjusted performance benchmark might still perform poorly against the global best benchmark if they face resource constraints.
+Los mejores puntajes globales evalúan la actuación del país en comparación con el objetivo final de garantizar que todos puedan disfrutar de sus derechos económicos y sociales. Los países que actúan bien en comparación con el indicador de desempeño ajustado por ingresos podrían, sin embargo, tener una actuación pobre en comparación con el mejor índice de referencia mundial si presentan limitaciones de recursos. 
 
-**Good** (95-100%): Countries scoring 100% set the benchmark for what is possible at any income level. These are usually high income countries who are demonstrating what is possible to achieve with sufficient income and given current technologies and knowledge. These countries will not be perfect, but are showing what it is so far possible to achieve. Countries scoring more than 95 but less than 100 have enabled people to broadly claim the right concerned, but, as in every country, there will still be some vulnerable population subgroups that are unable to claim their rights.
+**Bueno** (95-100 %): los países con una puntaje del 100 % establecen el punto de referencia para lo que es posible conseguir con cualquier nivel de ingresos. Normalmente son países con altos ingresos que demuestran lo que es posible lograr con sus ingresos y las tecnologías y conocimientos actuales. Puede que estos países no sean perfectos, pero demuestran lo que es posible conseguir hasta ahora. Los países con más de 95 pero menos de 100 permiten en general a las personas reclamar el derecho en cuestión, pero, como en todos los países, todavía existen algunos subgrupos vulnerables de población que no pueden reclamar sus derechos. 
 
-**Fair** (85-94.9%): Countries scoring in this range likely enable the majority of people to claim the right concerned but there remain segments of the population that are unable to do so. 
+**Regular** (85-94,9 %): los países con puntajes en este rango permiten a la mayoría de las personas reclamar el derecho en cuestión, pero hay segmentos de la población que todavía no pueden hacerlo. 
 
-**Bad** (75-84.9%): Countries scoring in this range have a long way to go to ensure that most people enjoy the right concerned, and there remain substantial segments of society that are unable to do so.  
+**Malo** (75-84,9 %): los países que obtienen puntajes en este rango tienen mucho trabajo que hacer para garantizar que la mayoría de las personas disfruten del derecho en cuestión y aún quedan segmentos sustanciales de la sociedad que no pueden hacerlo. 
 
-**Very bad** (below 75%): In countries scoring in this range, broad segments of society are unable to claim the right concerned. These countries are likely very low income countries, or countries that have failed to put in place the kinds of structures and policies that help people claim the right concerned, or both.
+**Muy malo** (por debajo del 75%): en los países con puntajes en este rango, amplios segmentos de la sociedad no pueden reclamar el derecho en cuestión. Es probable que estos países tengan ingresos muy bajos o que no hayan logrado establecer los tipos de estructuras y políticas que ayuden a las personas a reclamar el derecho en cuestión.
 
 

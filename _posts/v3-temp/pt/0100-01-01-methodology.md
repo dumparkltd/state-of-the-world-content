@@ -68,7 +68,7 @@ As pontuações do HRMI relativamente à Qualidade de Vida ajustadas aos rendime
 
 **Mau** (75 - 84,9 %): Países com pontuações neste intervalo têm um longo caminho a percorrer para cumprir as suas obrigações sob a lei dos direitos humanos. Falharam na implementação dos tipos de estruturas e políticas que permitam às pessoas reivindicar o direito em questão. 
 
-**Muito mau** (abaixo de 75%): Não existe razão para que um país tenha uma pontuação tão baixa. Não estão apenas a falhar na implementação dos tipos de estruturas e políticas que ajudam as pessoas a reivindicar o direito em questão, mas as estruturas e políticas em vigor impedem provavelmente as pessoas de reivindicar os seus direitos. 
+**Muito mau** (abaixo de 75 %): Não existe razão para que um país tenha uma pontuação tão baixa. Não estão apenas a falhar na implementação dos tipos de estruturas e políticas que ajudam as pessoas a reivindicar o direito em questão, mas as estruturas e políticas em vigor impedem provavelmente as pessoas de reivindicar os seus direitos. 
 
 **Melhores pontuações globais**
 
@@ -78,6 +78,6 @@ As melhores pontuações globais avaliam o desempenho do país em comparação c
 
 **Razoável** (85 - 94,9 %): Países com pontuações neste intervalo provavelmente permitem que a maioria das pessoas reivindique o direito em questão, mas ainda existem segmentos da população que não consegue fazê-lo. 
 
-**Mau** (75 - 84,9%): Países com pontuações neste intervalo têm um longo caminho a percorrer para garantir que a maioria das pessoas usufrua do direito em questão. Permanecem ainda segmentos substanciais da sociedade incapazes de o fazer.
+**Mau** (75 - 84,9 %): Países com pontuações neste intervalo têm um longo caminho a percorrer para garantir que a maioria das pessoas usufrua do direito em questão. Permanecem ainda segmentos substanciais da sociedade incapazes de o fazer.
 
-**Muito mau** (abaixo de 75%): Nos países com pontuações neste intervalo, vastos segmentos da sociedade são incapazes de reivindicar o direito em questão. Estes países são provavelmente países de rendimento muito baixo, ou países que falharam na implementação dos tipos de estruturas e políticas que permitam que as pessoas reivindiquem o direito em questão, ou ambos.
+**Muito mau** (abaixo de 75 %): Nos países com pontuações neste intervalo, vastos segmentos da sociedade são incapazes de reivindicar o direito em questão. Estes países são provavelmente países de rendimento muito baixo, ou países que falharam na implementação dos tipos de estruturas e políticas que permitam que as pessoas reivindiquem o direito em questão, ou ambos.

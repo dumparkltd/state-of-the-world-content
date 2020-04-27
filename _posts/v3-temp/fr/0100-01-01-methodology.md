@@ -6,7 +6,7 @@ lang: fr
 title: Methodology
 ---
 
-Il n'existe pas de méthodologie passe-partout pour évaluer le respect des droits humains. Par conséquent, nous utilisons différentes méthodologies conçues spécifiquement pour chaque type de droits.
+Il n'existe pas d’outils clés en main pour évaluer le respect des droits humains. Par conséquent, nous utilisons différentes méthodologies conçues spécifiquement pour chaque type de droits.
 
 ## Évaluation du respect des droits civils et politiques 
 
@@ -36,11 +36,11 @@ Pour en savoir plus :
 
 ---
 
-## Comprenez comment interpréter les étiquettes bien, plutôt bien, mauvais, et très mauvais sur les cartogrammes des pays
+## Comprendre l’échelle du cartogramme des pays
 
-Que signifient exactement les échelles **bien**, **plutôt bien**, **mauvais**, et **très mauvais**?
+Que signifient exactement les échelles **<<bien>>**, **<<plutôt bien>>**, **<<mauvais>>**, et **<<très mauvais>>**?
 
-Les étiquettes **bien**, **plutôt bien**, **mauvais**, et **très mauvais** les cartogrammes des pays font office d'indication globale permettant de comprendre les scores. Elles NE sont PAS des descriptions exhaustives du bilan d'un pays sur un droit individuel.
+Les étiquettes **<<bien>>**, **<<plutôt bien>>**, **<<mauvais>>**, et **<<très mauvais>>** les cartogrammes des pays font office d'indication globale permettant de comprendre les scores. Elles NE sont PAS des descriptions exhaustives du bilan d'un pays sur un droit individuel.
 
 ---
 

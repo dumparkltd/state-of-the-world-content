@@ -36,11 +36,11 @@ Pour en savoir plus :
 
 ---
 
-## Comprendre l’échelle du cartogramme des pays
+## Comprendre l’échelle des graphiques par pays
 
-Que signifient exactement les échelles **<<bien>>**, **<<plutôt bien>>**, **<<mauvais>>**, et **<<très mauvais>>**?
+Que signifient exactement les échelles **<< bien >>**, **<< plutôt bien >>**, **<< mauvais >>**, et **<< très mauvais >>**?
 
-Les étiquettes **<<bien>>**, **<<plutôt bien>>**, **<<mauvais>>**, et **<<très mauvais>>** les cartogrammes des pays font office d'indication globale permettant de comprendre les scores. Elles NE sont PAS des descriptions exhaustives du bilan d'un pays sur un droit individuel.
+Les étiquettes **<< bien >>**, **<< plutôt bien >>**, **<< mauvais >>**, et **<< très mauvais >>** des graphiques des pays font office d'indication globale permettant de comprendre les scores. Elles NE sont PAS des descriptions exhaustives du bilan d'un pays sur un droit individuel.
 
 ---
 

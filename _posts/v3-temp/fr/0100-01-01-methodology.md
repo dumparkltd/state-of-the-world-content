@@ -40,7 +40,7 @@ Pour en savoir plus :
 
 Que signifient exactement les échelles **<< bien >>**, **<< plutôt bien >>**, **<< mauvais >>**, et **<< très mauvais >>**?
 
-Les étiquettes **<< bien >>**, **<< plutôt bien >>**, **<< mauvais >>**, et **<< très mauvais >>** des graphiques des pays font office d'indication globale permettant de comprendre les scores. Elles NE sont PAS des descriptions exhaustives du bilan d'un pays sur un droit individuel.
+Les mentions **<< bien >>**, **<< plutôt bien >>**, **<< mauvais >>**, et **<< très mauvais >>** sur les graphiques des pays font office d'indication globale permettant de comprendre les scores. Elles NE sont PAS des descriptions exhaustives du bilan d'un pays sur un droit individuel.
 
 ---
 

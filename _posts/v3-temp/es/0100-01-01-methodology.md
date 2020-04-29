@@ -46,7 +46,7 @@ Las etiquetas **bueno**, **regular**, **malo**, y **muy malo** en los gráficos 
 
 **Más información sobre cómo interpretar estas etiquetas para derechos civiles y políticos (Derechos de Integridad Física y Empoderamiento)**
 
-**Bueno** (8 - 10): Desde 2017, los gobiernos con puntajes en el rango **bueno** respetan estos derechos más que la mayoría de los otros gobiernos en nuestra muestra. Sin embargo, los países en este rango, particularmente los que tienen puntajes cercanas al extremo inferior del rango, aún pueden tener problemas significativos que conducen a la violación de los derechos de algunas personas. 
+**Bueno** (8 - 10): Desde 2017, los gobiernos con puntajes en el rango **bueno** respetan estos derechos más que la mayoría de los otros gobiernos en nuestra muestra. Sin embargo, los países en este rango, particularmente los que tienen puntajes cercanos al extremo inferior del rango, aún pueden tener problemas significativos que conducen a la violación de los derechos de algunas personas. 
 
 **Regular** (6 - 8): Los gobiernos con puntajes en el rango **regular** respetan estos derechos, desde 2017, más que muchos países, pero aún violan los derechos de un número significativo de personas. 
 

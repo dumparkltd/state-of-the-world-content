@@ -48,7 +48,7 @@ Las etiquetas **bueno**, **regular**, **malo**, y **muy malo** en los gráficos 
 
 **Bueno** (8 - 10): Desde 2017, los gobiernos con puntajes en el rango **bueno** respetan estos derechos más que la mayoría de los otros gobiernos en nuestra muestra. Sin embargo, los países en este rango, particularmente los que tienen puntajes cercanos al extremo inferior del rango, aún pueden tener problemas significativos que conducen a la violación de los derechos de algunas personas. 
 
-**Regular** (6 - 8): Los gobiernos con puntajes en el rango **regular** respetan estos derechos, desde 2017, más que muchos países, pero aún violan los derechos de un número significativo de personas. 
+**Regular** (6 - 8): Los gobiernos con puntajes en el rango **regular** respetan estos derechos, desde 2017, más que muchos países. Sin embargo, aún se violan los derechos de un número significativo de personas.
 
 **Malo** (3,5 - 6): Los gobiernos con puntajes en el rango **malo** incurren en numerosas violaciones de derechos civiles y políticos, actuando peor que muchos gobiernos en nuestra muestra desde 2017. 
 
@@ -68,7 +68,7 @@ Los puntajes de Calidad de Vida ajustados por ingresos de HRMI pueden interpreta
 
 **Malo** (75 - 84,9 %): los países con puntajes en este rango tienen mucho trabajo que hacer para cumplir con sus obligaciones dentro de la ley de derechos humanos. No han logrado establecer los tipos de estructuras y políticas que permitan a las personas reclamar el derecho en cuestión. 
 
-**Muy malo** (por debajo del 75 %): no hay ninguna razón para que un país obtenga un puntaje tan bajo. No solo no están implementando los tipos de estructuras y políticas que ayuden a las personas a reclamar el derecho en cuestión, sino que las estructuras y políticas vigentes probablemente eviten que las personas reclamen sus derechos. 
+**Muy malo** (por debajo del 75 %): no hay ninguna razón para que un país obtenga un puntaje tan bajo. No solo no están implementando los tipos de estructuras y políticas que ayuden a las personas a reclamar el derecho en cuestión, sino que las estructuras y políticas vigentes probablemente evitan que las personas reclamen sus derechos. 
 
 **Mejores puntajes globales**
 

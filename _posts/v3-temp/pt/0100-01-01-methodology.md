@@ -44,7 +44,7 @@ Os rótulos nos gráficos dos países de  **bom**, **razoável**, **mau**, e **m
 
 ---
 
-**Mais informação em como interpretar estes rótulos para os direitos civis e políticos (Integridade Física e Empoderamento)**
+### Mais informação em como interpretar estes rótulos para os direitos civis e políticos (Integridade Física e Empoderamento)
 
 **Bom** (8 - 10): Governos com pontuações no intervalo **bom** respeitam mais os direitos do que a maioria dos outros governos da nossa amostra desde 2017. Contudo, países neste intervalo, particularmente os que têm pontuações perto do extremo mais baixo podem ainda ter problemas significativos que levam à violação de alguns direitos das pessoas.
 
@@ -56,9 +56,9 @@ Os rótulos nos gráficos dos países de  **bom**, **razoável**, **mau**, e **m
 
 ---
 
-**Mais informação sobre como interpretar estes intervalos para os direitos económicos e sociais (Qualidade de Vida)**
+### Mais informação sobre como interpretar estes intervalos para os direitos económicos e sociais (Qualidade de Vida)
 
-**Pontuações ajustadas pelos rendimentos**
+#### Pontuações ajustadas pelos rendimentos
 
 As pontuações do HRMI relativamente à Qualidade de Vida ajustadas aos rendimentos podem ser amplamente interpretadas como mostrando a percentagem da obrigação que o país cumpriu, em comparação com o que os países com melhor desempenho alcançaram em cada nível de rendimentos. 
 
@@ -70,7 +70,7 @@ As pontuações do HRMI relativamente à Qualidade de Vida ajustadas aos rendime
 
 **Muito mau** (abaixo de 75 %): Não existe razão para que um país tenha uma pontuação tão baixa. Não estão apenas a falhar na implementação dos tipos de estruturas e políticas que ajudam as pessoas a reivindicar o direito em questão, mas as estruturas e políticas em vigor impedem provavelmente as pessoas de reivindicar os seus direitos. 
 
-**Melhores pontuações globais**
+#### Melhores pontuações globais
 
 As melhores pontuações globais avaliam o desempenho do país em comparação com o objetivo final de garantir que todas as pessoas possam usufruir dos seus direitos económicos e sociais. Os países com bom desempenho em relação à referência de desempenho ajustada aos rendimentos podem ainda ter um mau desempenho em relação à melhor referência global se enfrentarem restrições de recursos.
 

@@ -44,7 +44,7 @@ The labels on the country charts of **good**, **fair**, **bad**, and **very bad*
 
 ---
 
-**Interpreting these labels for the civil and political rights (Safety from the State and Empowerment)**
+### Interpreting these labels for the civil and political rights (Safety from the State and Empowerment)
 
 **Good** (8-10): Governments with scores in the **good** range respect these rights more than most other governments in our sample since 2017. However, countries in this range, particularly those with scores close to the lower end of the range, may still have significant problems that lead to the violation of some peoples’ rights.
 
@@ -56,9 +56,9 @@ The labels on the country charts of **good**, **fair**, **bad**, and **very bad*
 
 ---
 
-**Interpreting these labels for the economic and social rights (Quality of Life)**
+### Interpreting these labels for the economic and social rights (Quality of Life)
 
-**Income adjusted scores**
+#### Income adjusted scores
 
 HRMI's income adjusted Quality of Life scores can be broadly interpreted as showing the percentage of the country's obligation it has met, compared to what the best performing countries have achieved at each income level.  
 
@@ -70,7 +70,7 @@ HRMI's income adjusted Quality of Life scores can be broadly interpreted as show
 
 **Very bad** (below 75%): There is no reason for any country to score this low. Not only are countries scoring below 75% failing to put in place the kinds of structures and policies that help people claim the right concerned, but the structures and policies in place most likely prevent many people from claiming their rights.  
 
-**Global best scores**
+#### Global best scores
 
 The global best scores assess country performance compared to the ultimate goal of ensuring _all_ people can enjoy their economic and social rights. Countries performing well against the income adjusted performance benchmark might still perform poorly against the global best benchmark if they face resource constraints.
 

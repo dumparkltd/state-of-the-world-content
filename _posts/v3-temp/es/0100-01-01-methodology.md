@@ -44,7 +44,7 @@ Las etiquetas **bueno**, **regular**, **malo**, y **muy malo** en los gráficos 
 
 ---
 
-**Más información sobre cómo interpretar estas etiquetas para derechos civiles y políticos (Derechos de Integridad Física y Empoderamiento)**
+### Más información sobre cómo interpretar estas etiquetas para derechos civiles y políticos (Derechos de Integridad Física y Empoderamiento)
 
 **Bueno** (8 - 10): Desde 2017, los gobiernos con puntajes en el rango **bueno** respetan estos derechos más que la mayoría de los otros gobiernos en nuestra muestra. Sin embargo, los países en este rango, particularmente los que tienen puntajes cercanos al extremo inferior del rango, aún pueden tener problemas significativos que conducen a la violación de los derechos de algunas personas. 
 
@@ -56,9 +56,9 @@ Las etiquetas **bueno**, **regular**, **malo**, y **muy malo** en los gráficos 
 
 ---
 
-**Más información sobre cómo interpretar estas etiquetas para derechos económicos y sociales (Calidad de Vida)**
+### Más información sobre cómo interpretar estas etiquetas para derechos económicos y sociales (Calidad de Vida)
 
-**Puntajes ajustados por ingresos**
+#### Puntajes ajustados por ingresos
 
 Los puntajes de Calidad de Vida ajustados por ingresos de HRMI pueden interpretarse, en términos generales, como la muestra del porcentaje de obligación que el país ha alcanzado, en comparación con lo que han logrado los países que mejor han actuado en cada nivel de ingresos.  
 
@@ -70,7 +70,7 @@ Los puntajes de Calidad de Vida ajustados por ingresos de HRMI pueden interpreta
 
 **Muy malo** (por debajo del 75 %): no hay ninguna razón para que un país obtenga un puntaje tan bajo. No solo no están implementando los tipos de estructuras y políticas que ayuden a las personas a reclamar el derecho en cuestión, sino que las estructuras y políticas vigentes probablemente evitan que las personas reclamen sus derechos. 
 
-**Mejores puntajes globales**
+#### Mejores puntajes globales
 
 Los mejores puntajes globales evalúan la actuación del país en comparación con el objetivo final de garantizar que todos puedan disfrutar de sus derechos económicos y sociales. Los países que actúan bien en comparación con el indicador de desempeño ajustado por ingresos podrían, sin embargo, tener una actuación pobre en comparación con el mejor índice de referencia mundial si presentan limitaciones de recursos. 
 

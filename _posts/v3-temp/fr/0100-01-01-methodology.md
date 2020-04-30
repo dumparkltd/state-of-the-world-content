@@ -44,7 +44,7 @@ Les mentions **<< bien >>**, **<< plutôt bien >>**, **<< mauvais >>**, et **<< 
 
 ---
 
-**Davantage d'informations sur la manière d'interpréter ces étiquettes au sujet des droits civils et politiques (Intégrité Physique et Autonomisation)**
+### Davantage d'informations sur la manière d'interpréter ces étiquettes au sujet des droits civils et politiques (Intégrité Physique et Autonomisation)**
 
 **Bien** (8 - 10): les gouvernements dont les scores se situent dans cette catégorie respectent mieux ces droits que la plupart des autres gouvernements dans notre échantillon depuis 2017. Cependant, ces pays, en particulier ceux ayant un score plus faible, peuvent présenter encore d'importants problèmes qui entraînent la violation des droits de certaines personnes.
 
@@ -56,9 +56,9 @@ Les mentions **<< bien >>**, **<< plutôt bien >>**, **<< mauvais >>**, et **<< 
 
 ---
 
-**Davantage d'informations sur la manière d'interpréter ces étiquettes concernant les droits économiques et sociaux (qualité de vie)**
+### Davantage d'informations sur la manière d'interpréter ces étiquettes concernant les droits économiques et sociaux (qualité de vie)
 
-**Scores réajustés en fonction du revenu**
+#### Scores réajustés en fonction du revenu
 
 Les scores de qualité de vie réajustés en fonction du revenu, conçus par HRMI, peuvent être interprétés globalement comme un pourcentage d'obligations respectées par un pays, en comparaison aux scores des pays les plus performants dans chaque tranche de revenu. 
 
@@ -70,7 +70,7 @@ Les scores de qualité de vie réajustés en fonction du revenu, conçus par HRM
 
 **Très mauvais** (moins de 75 %): rien ne justifie qu'un pays se situe dans cette catégorie. Non seulement ils échouent à mettre en place les types de structures et de politiques qui permettent la jouissance du droit concerné mais il est probable que les structures et les politiques existantes entravent la jouissance des droits.
 
-**Comparatif au niveau mondial**
+#### Comparatif au niveau mondial
 
 Les meilleurs scores globaux mesurent le bilan du pays par rapport au but ultime qui est de veiller à ce que tous puissent jouir de leurs droits économiques et sociaux. Les pays affichant un bon bilan par rapport au niveau de référence réajusté en fonction du revenu peuvent tout de même se classer en dessous du score de référence global s'ils disposent de ressources insuffisantes. 
 

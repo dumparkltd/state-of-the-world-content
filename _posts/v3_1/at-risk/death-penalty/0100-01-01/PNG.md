@@ -1,0 +1,9 @@
+---
+published: false
+layout: default
+permalink: /v3_1/en/at-risk/death-penalty/PNG/
+lang: en
+---
+_Expert respondents didn’t select any group of people for this right_
+
+ 

@@ -16,18 +16,24 @@ Human Rights measurement data shown in the portal is produced by HRMI, a unique 
 
 For economic and social rights, HRMI draws on the most recently available national statistics produced by governments and international agencies.
 
-For the **State of the World** human rights portal we only use the **Global Best** benchmark where the maximum possible score (100%) is based on the best outcome achieved by any country regardless of its available income. Please refer to HRMI's [Rights Tracker](https://rightstracker.org) for **Income-adjusted** scores that compare countries’ human rights outcomes with countries at a similar income level, thus capturing the concept of 'progressive realisation'.
+#### Global best benchmark
 
-Due to differences in data availability for high income and low and middle income countries, economic and social rights scores are measured for two **assessment standards** that each draw on different sets of statistical indicators:    
+For the State of the World human rights portal we use HRMI's "Global Best" benchmark where the maximum possible score (100%) is based on the best outcome achieved by any country regardless of its available income. Please refer to HRMI's [Rights Tracker](https://rightstracker.org) for "Income-adjusted" scores that compare countries’ human rights outcomes with countries at a similar income level, thus capturing the concept of 'progressive realisation'.
 
-* **Low and middle income**: Uses statistical indicators that are available for most countries in the world, particularly low and middle income countries.
-* **High income**: Uses statistical indicators that are primarily available for high income countries, and better reflect the human rights challenges of high income countries.
+#### Assessment standards
+
+Due to differences in data availability for high income and low and middle income countries, economic and social rights scores are measured for two assessment standards that each draw on different sets of statistical indicators:    
+
+* Low and middle income: Uses statistical indicators that are available for most countries in the world, particularly low and middle income countries.
+* High income: Uses statistical indicators that are primarily available for high income countries, and better reflect the human rights challenges of high income countries.
 
 Learn more about HRMI's methodology for measuring economic and social rights:
 
-* [Methodology overview](https://humanrightsmeasurement.org/methodology/measuring-economic-social-rights/)
-* [In-depth methodology handbook](https://humanrightsmeasurement.org/methodology-handbook/)
-* [SERF Index website](https://serfindex.uconn.edu/)
+[Methodology overview](https://humanrightsmeasurement.org/methodology/measuring-economic-social-rights/)
+
+[In-depth methodology handbook](https://humanrightsmeasurement.org/methodology-handbook/)
+
+[SERF Index website](https://serfindex.uconn.edu/)
 
 ### Regional and global averages
 

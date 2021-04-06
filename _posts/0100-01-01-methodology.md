@@ -77,9 +77,12 @@ In addition to the **median value** of all quantified expert responses, 80% **cr
 While HRMI is working on expanding their data to the whole world as soon as possible, coverage is currently still quite limited (learn how you can help [here](https://humanrightsmeasurement.org/do-you-want-hrmi-human-rights-scores-for-your-country)).
 
 Learn more about HRMI's methodology for measuring civil and political rights:
-* [Methodology overview](https://humanrightsmeasurement.org/methodology/measuring-civil-political-rights/)
-* [In-depth methodology handbook](https://humanrightsmeasurement.org/methodology-handbook/)
-* [Expert survey](https://ugeorgia.ca1.qualtrics.com/jfe/preview/SV_72IQjpYjeCbIw3b?Q_SurveyVersionID=current&Q_CHL=preview) (please note this is a link to a preview of the most recent version of the survey, and any responses you enter will not be collected)
+
+[Methodology overview](https://humanrightsmeasurement.org/methodology/measuring-civil-political-rights/)
+
+[In-depth methodology handbook](https://humanrightsmeasurement.org/methodology-handbook/)
+
+[Expert survey](https://ugeorgia.ca1.qualtrics.com/jfe/preview/SV_72IQjpYjeCbIw3b?Q_SurveyVersionID=current&Q_CHL=preview) (please note this is a link to a preview of the most recent version of the survey, and any responses you enter will not be collected)
 
 ### Regional and global averages
 

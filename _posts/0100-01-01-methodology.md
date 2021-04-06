@@ -10,7 +10,7 @@ Human Rights measurement data shown in the portal is produced by HRMI, a unique 
 
 ---
 
-## Measuring economic and social rights
+## Economic and social rights’ scores
 
 ### Country scores
 

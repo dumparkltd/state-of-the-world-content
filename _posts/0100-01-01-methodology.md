@@ -138,15 +138,15 @@ Governments with scores in the very bad range violate these rights more than mos
 
 #### Human Rights Council (HRC) membership
 
-* Sources: yourhrc.org and OHCHR
+* Sources: [yourhrc.org](yourhrc.org) and OHCHR
 * Data as at: 25 March 2021
 
 #### Standing invitation to Special Procedures
 
-* Source: yourhrc.org and OHCHR
+* Source: [yourhrc.org](yourhrc.org) and OHCHR
 * Data as at: 25 March 2021
 
-#### Universal Periodic Review
+#### Universal Periodic Review (UPR)
 
 * Source: OHCHR
 * Data as at: 25 March 2021
@@ -174,17 +174,17 @@ The number of visits completed/undertaken includes only visits that have actuall
 
 ### Country scores for other indices
 
-#### Press Freedom Index (Reporters Without Borders)
+#### Press Freedom Index
 
-* Source: https://rsf.org/en/ranking_table
+* Source: [Reporters Without Borders](https://rsf.org/en/ranking_table)
 * Data as at: 25 March 2021
 
-#### Corruption Perception Index (Transparency International)
+#### Corruption Perception Index
 
-* Source: https://www.transparency.org/en/cpi/2020/index/nzl
+* Source: [Transparency International](https://www.transparency.org/en/cpi/2020/index/nzl)
 * Data as at: 25 March 2021
 
-#### Democracy Index (Economist Intelligence Unit)
+#### Democracy Index
 
-* Source: https://www.eiu.com/n/campaigns/democracy-index-2020/
+* Source: [Economist Intelligence Unit](https://www.eiu.com/n/campaigns/democracy-index-2020/)
 * Data as at: 25 March 2021

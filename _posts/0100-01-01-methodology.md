@@ -48,19 +48,19 @@ Please note:
 
 To help with interpreting the scores HRMI has defined broad qualitative ranges. They are however only an indication of a country’s performance and NOT comprehensive descriptions.
 
-**95-100%: Good**
+#### Good: 95 - 100%
 
 Countries scoring 100% set the benchmark for what is possible at any income level. These are usually high income countries who are demonstrating what is possible to achieve with sufficient income and given current technologies and knowledge. These countries will not be perfect, but are showing what it is so far possible to achieve. Countries scoring more than 95 but less than 100 have enabled people to broadly claim the right concerned, but, as in every country, there will still be some vulnerable population subgroups that are unable to claim their rights.
 
-**85-94.9%: Fair**
+#### Fair: 85 - 95%
 
 Countries scoring in this range likely enable the majority of people to claim the right concerned but there remain segments of the population that are unable to do so.
 
-**75-84.9%: Bad**
+#### Bad: 75 - 85%
 
 Countries scoring in this range have a long way to go to ensure that most people enjoy the right concerned, and there remain substantial segments of society that are unable to do so.  
 
-**0-75%: Very bad**
+#### Very bad: 0 - 75%
 
 In countries scoring in this range, broad segments of society are unable to claim the right concerned. These countries are likely very low income countries, or countries that have failed to put in place the kinds of structures and policies that help people claim the right concerned, or both.
 
@@ -94,21 +94,21 @@ Please note:
 
 To help with interpreting the scores HRMI has defined broad qualitative ranges. They are however only an indication of a country’s performance and NOT comprehensive descriptions.
 
-**8-10: Good**
+#### Good: 8 - 10
 
-Governments with scores in the **good** range respect these rights more than most other governments in our sample since 2017. However, countries in this range, particularly those with scores close to the lower end of the range, may still have significant problems that lead to the violation of some peoples’ rights.
+Governments with scores in the good range respect these rights more than most other governments in our sample since 2017. However, countries in this range, particularly those with scores close to the lower end of the range, may still have significant problems that lead to the violation of some peoples’ rights.
 
-**6-8: Fair**
+#### Fair: 6 - 8
 
-Governments with scores in the **fair** range respect these rights more than many countries since 2017, but still violate the rights of a significant number of people.
+Governments with scores in the fair range respect these rights more than many countries since 2017, but still violate the rights of a significant number of people.
 
-**3.5-6: Bad**
+#### Bad: 3.5 - 6
 
-Governments with scores in the **bad** range engage in numerous violations of civil and political rights, performing worse than many governments in our sample since 2017.
+Governments with scores in the bad range engage in numerous violations of civil and political rights, performing worse than many governments in our sample since 2017.
 
-**0-3.5: Very bad**
+#### Very bad: 0 - 3.5
 
-Governments with scores in the **very bad** range violate these rights more than most other governments in our sample since 2017.
+Governments with scores in the very bad range violate these rights more than most other governments in our sample since 2017.
 
 ---
 

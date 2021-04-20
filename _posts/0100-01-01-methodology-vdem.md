@@ -22,7 +22,7 @@ Please note:
 
 * In addition of the (mean) averages of the median country scores, 80% **credible intervals** are given for each region based on the individual countries' standard variations (the regional standard variation is the square root of the quadratic mean of the countries' standard variations).  
 
-### Interpreting democracry scores (global best benchmark)
+### Interpreting democracry scores
 
 TODO: consider option for qualitative brackets (V-Dem scores range from 0 to 1) and rewrite or remove this section
 

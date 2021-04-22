@@ -10,7 +10,7 @@ title: Methodology
 
 ### Country scores
 
-TODO: something about V-Dem's methodology
+TODO: something about V-Dem's methodology (consider mentioning not including disputed "countries", eg Kosovo, Somaliland, Kongkong, Taiwan, Palestine?)
 
 ### Regional and global averages
 

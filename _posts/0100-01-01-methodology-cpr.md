@@ -31,7 +31,7 @@ To expose regional and global trends, we have calculated the average scores for 
 Please note:
 
 * HRMI's **country coverage** for civil and political rights is still rather limited so that regional score averages are likely not (yet) representative or may even be missing.
-* In addition of the (mean) averages of the median country scores, 80% **credible intervals** are given for each region based on the individual countries' standard variations (the regional standard variation is the square root of the quadratic mean of the countries' standard variations).  
+* In addition of the (mean) averages of the median country scores, 80% **credible intervals** are given for each region based on the individual countries' standard deviations (the regional standard deviation is the square root of the quadratic mean of the countries' standard deviations).  
 
 ### Interpreting civil and political rights scores
 

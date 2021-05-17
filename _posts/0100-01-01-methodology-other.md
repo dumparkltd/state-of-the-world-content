@@ -25,7 +25,10 @@ title: Methodology
 * Source: World Bank (via HRMI)
 * Data as at: 9 April 2020
 
-TODO: add V-Dem source for country V-Dem country category
+#### Regime type
+
+Source: [V-Dem 2020](https://www.v-dem.net/)
+Data as at: February 2021
 
 
 ### Country human rights information

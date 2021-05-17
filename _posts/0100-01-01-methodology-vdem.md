@@ -20,7 +20,7 @@ To expose regional and global trends, we have calculated the average scores for 
 
 Please note:
 
-* In addition of the (mean) averages of the median country scores, 80% **credible intervals** are given for each region based on the individual countries' standard variations (the regional standard variation is the square root of the quadratic mean of the countries' standard variations).  
+* In addition of the (mean) averages of the median country scores, 68% **credible intervals** are given for each region based on the individual countries' standard variations (the regional standard variation is the square root of the quadratic mean of the countries' standard variations).  
 
 ### Interpreting democracy scores
 

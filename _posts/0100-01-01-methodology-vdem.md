@@ -27,3 +27,11 @@ Please note:
 ### Interpreting V-Dem's democracy scores
 
 For all indices, V-Dem uses interval scale from 0-1, where 0 is the lowest (i.e., the corresponding democracy index is the less realised) and 1 is the highest (i.e., the corresponding democracy index is the further realised).
+
+### V-Dem credits 
+
+Data: Coppedge, Michael, John Gerring, Carl Henrik Knutsen, Staffan I. Lindberg, Jan Teorell, Nazifa Alizada, David Altman, Michael Bernhard, Agnes Cornell, M. Steven Fish, Lisa Gastaldi, Haakon Gjerløw, Adam Glynn, Allen Hicken, Garry Hindle, Nina Ilchenko, Joshua Krusell, Anna Luhrmann, Seraphine F. Maerz, Kyle L. Marquardt, Kelly McMann, Valeriya Mechkova, Juraj Medzihorsky, Pamela Paxton, Daniel Pemstein, Joseﬁne Pernes, Johannes von Römer, Brigitte Seim, Rachel Sigman, Svend-Erik Skaaning, Jeffrey Staton, Aksel Sundström, Ei-tan Tzelgov, Yi-ting Wang, Tore Wig, Steven Wilson and Daniel Ziblatt. 2021. ”V-Dem Dataset v11.1” Varieties of Democracy Project. https://doi.org/10.23696/vdemds21
+
+Working papers: Pemstein, Daniel, Kyle L. Marquardt, Eitan Tzelgov, Yi-ting Wang, Juraj Medzihorsky, Joshua Krusell, Farhad Miri, and Johannes von Römer. 2021. “The V-Dem Measurement Model: Latent Variable Analysis for Cross-National and Cross-Temporal Expert-Coded Data”. V-Dem Working Paper No. 21 , 6th edition. University of Gothenburg: Varieties of Democracy Institute.
+
+The V-Dem datasets are available under the Creative Commons Attribution-ShareAlike License CC-BY-SA-license avalable [here] (https://www.v-dem.net/files/2/CC-BY-SA-license.txt)

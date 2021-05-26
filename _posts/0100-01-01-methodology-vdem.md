@@ -10,7 +10,7 @@ title: Methodology
 
 ### Country scores
 
-V-Dem measures different democracy-related indicators by aggregating expert judgments. V-Dem has recruited over 3,000 country experts to provide their judgment on different concepts and cases and typically gathers data from 5 experts for each observation and uses different techniques to facilitate cross-country comparability.
+Approximately half of the indicators in the V-Dem dataset are based on factual information obtainable from official documents such as constitutions and government records. The other half consists of more subjective assessments on topics like political practices and compliance with de jure rules. On such issues, typically five experts provide ratings. V-Dem has recruited over 3,000 country experts to provide their judgment on different concepts and cases and typically gathers data from 5 experts for each observation and uses different techniques to facilitate cross-country comparability.
 
 In addition to the median value of all quantified expert responses, 68% credible intervals are given to reflect a possible disagreement and the resulting uncertainty about the true score. While smaller credible intervals thus indicate strong agreement of the experts, longer intervals indicate less agreement.
 

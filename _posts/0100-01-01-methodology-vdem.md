@@ -18,7 +18,7 @@ V-Dem measures different democracy-related indicators by aggregating expert judg
 
 In addition to the median value of all quantified expert responses, 68% credible intervals are given to reflect a possible disagreement and the resulting uncertainty about the true score. While smaller credible intervals thus indicate strong agreement of the experts, longer intervals indicate less agreement.
 
-More information about V-Dem's methodology can be found in their Organisation and Management [manual] (https://www.v-dem.net/media/filer_public/b6/57/b657b62d-b3a5-41b5-85bb-48e8d8db0a3d/org__man_v111.pdf), methodology [handbook](https://www.v-dem.net/media/filer_public/4e/1c/4e1c47ae-4800-436a-bbf1-c5fb50798bd3/methodology_v111.pdf) and overview of its [Method for Aggregating Expert-Coded Data](https://www.v-dem.net/media/filer_public/96/82/9682e043-d302-4e90-b927-3f37e8469acd/v-dem_policybrief_17_2018.pdf).
+More information about V-Dem's methodology can be found in their Organisation and Management [manual](https://www.v-dem.net/media/filer_public/b6/57/b657b62d-b3a5-41b5-85bb-48e8d8db0a3d/org__man_v111.pdf), methodology [handbook](https://www.v-dem.net/media/filer_public/4e/1c/4e1c47ae-4800-436a-bbf1-c5fb50798bd3/methodology_v111.pdf) and overview of its [Method for Aggregating Expert-Coded Data](https://www.v-dem.net/media/filer_public/96/82/9682e043-d302-4e90-b927-3f37e8469acd/v-dem_policybrief_17_2018.pdf).
 
 ### Regional and global averages
 

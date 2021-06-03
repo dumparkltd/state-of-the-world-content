@@ -12,7 +12,7 @@ title: Methodology
 
 Civil and political rights measurement is based on a multilingual expert survey approach where country scores are based on responses of human rights experts who either live in or specialise in monitoring that country.
 
-In addition to the **median value** of all quantified expert responses, 80% **credible intervals** are given (10th and 90th percentile) to reflect a possible disagreement and the resulting uncertainty about the true score. While smaller credible intervals thus indicate strong agreement of the experts, longer intervals indicate less agreement.
+In addition to the **mean value** of all quantified expert responses, 80% **credible intervals** are given (10th and 90th percentile) to reflect a possible disagreement and the resulting uncertainty about the true score. While smaller credible intervals thus indicate strong agreement of the experts, longer intervals indicate less agreement.
 
 While HRMI is working on expanding their data to the whole world as soon as possible, coverage is currently still quite limited (learn how you can help [here](https://humanrightsmeasurement.org/do-you-want-hrmi-human-rights-scores-for-your-country)).
 
